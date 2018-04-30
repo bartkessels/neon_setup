@@ -72,7 +72,6 @@ ln -sf $sync_folder/Werk $HOME/Work
 
 # Add PPA's
 add-apt-repository -y ppa:wereturtle/ppa
-add-apt-repository -y ppa:libreoffice/ppa
 
 # Visual Studio Code
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
@@ -148,8 +147,8 @@ apt install --install-suggests -y umbrello
 apt install --install-suggests -y falkon filezilla youtube-dl offlineimap qbittorrent
 
 # Office / Office language packs
-apt install -y libreoffice kile kontact
-apt install -y aspell-nl libreoffice-l10n-nl
+apt install -y kile kontact
+apt install -y aspell-nl
 
 # Containers
 apt install --install-suggests -y docker docker-compose
@@ -175,6 +174,16 @@ apt install --install-suggests -y flatpak
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak remote-add --if-not-exists kdeapps --from https://distribute.kde.org/kdeapps.flatpakrepo
 
+# Add flatpak support to discover
+apt install -y plasma-discover-flatpak-backend
+
+##
+## APPLICATIONS
+##
+
+# Office
+flatpak install -y flathub org.libreoffice.LibreOffice
+
 # Video editors
 flatpak install -y flathub org.blender.Blender
 flatpak install -y flathub org.shotcut.Shotcut
@@ -183,7 +192,7 @@ flatpak install -y flathub org.shotcut.Shotcut
 flatpak install -y flathub com.obsproject.Studio
 
 # Development editors
-flatpak install flathub com.google.AndroidStudio
+flatpak install -y flathub com.google.AndroidStudio
 
 #####################################################################################
 #####################################################################################
@@ -197,7 +206,6 @@ flatpak install flathub com.google.AndroidStudio
 usermod -aG docker $USER
 usermod -aG audio $USER
 usermod -aG realtime $USER
-usermod -aG mock $USER
 
 #####################################################################################
 #####################################################################################
