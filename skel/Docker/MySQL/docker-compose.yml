@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+    mysql-server:
+        image: mysql/mysql-server:latest
+        environment:
+            - MYSQL_ROOT_PASSWORD=Str0ngPass
+            - MYSQL_ROOT_HOST=localhost
+            - MYSQL_DATABASE=extra_database
+            - MYSQL_USER=extra_database_user
+            - MYSQL_PASSWORD=extra_database_password
+        ports:
+            - "3306:3306"

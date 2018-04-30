@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <text/>
+ </head>
+ <body>
+  <outline isOpen="false" text="KDE" id="1383606859">
+   <outline title="KDE Dot News" maxArticleAge="0" fetchInterval="0" htmlUrl="https://dot.kde.org/frontpage" useCustomFetchInterval="false" xmlUrl="https://dot.kde.org/rss.xml" description="" text="KDE Dot News" id="247088620" archiveMode="globalDefault" maxArticleNumber="0" type="rss" version="RSS"/>
+   <outline title="Linux.com" maxArticleAge="0" fetchInterval="0" htmlUrl="https://www.linux.com/feeds/rss" useCustomFetchInterval="false" xmlUrl="https://www.linux.com/feeds/rss" description="" text="Linux.com" id="97555942" archiveMode="globalDefault" maxArticleNumber="0" type="rss" version="RSS"/>
+   <outline title="Planet KDE" maxArticleAge="0" fetchInterval="0" htmlUrl="http://planetKDE.org/" useCustomFetchInterval="false" xmlUrl="https://planetkde.org/rss20.xml" description="Planet KDE - http://planetKDE.org/" text="Planet KDE" id="611533545" archiveMode="globalDefault" maxArticleNumber="0" type="rss" version="RSS"/>
+   <outline title="KDE Apps" maxArticleAge="0" fetchInterval="0" htmlUrl="" useCustomFetchInterval="false" xmlUrl="https://store.kde.org/content.rdf" description="" text="KDE Apps" id="304767096" archiveMode="globalDefault" maxArticleNumber="0" type="rss" version="RSS"/>
+   <outline isOpen="false" text="Brazilian Portuguese feeds" id="187687849">
+    <outline title="Planet KDE Brazilian Portuguese" maxArticleAge="0" fetchInterval="0" htmlUrl="http://planetKDE.org/" useCustomFetchInterval="false" xmlUrl="https://planetkde.org/pt-br/rss20.xml" description="Planet KDE - http://planetKDE.org/" text="Planet KDE Brazilian Portuguese" id="1708167766" archiveMode="globalDefault" maxArticleNumber="0" type="rss" version="RSS"/>
+   </outline>
+   <outline isOpen="false" text="Spanish feeds" id="971182845">
+    <outline title="Planet KDE España" maxArticleAge="0" fetchInterval="0" htmlUrl="https://planet.kde-espana.org/" useCustomFetchInterval="false" xmlUrl="https://planet.kde-espana.org/atom.xml" description="" text="Planet KDE España" id="459349820" archiveMode="globalDefault" maxArticleNumber="0" type="rss" version="RSS"/>
+   </outline>
+  </outline>
+ </body>
+</opml>
+

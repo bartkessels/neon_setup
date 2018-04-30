@@ -1,0 +1,9 @@
+database server stopped unexpectedly
+Database process exited unexpectedly during initial connection!
+executable: "/usr/sbin/mysqld-akonadi"
+arguments: ("--defaults-file=/home/bkessels/.local/share/akonadi/mysql.conf", "--datadir=/home/bkessels/.local/share/akonadi/db_data/", "--socket=/tmp/akonadi-bkessels.4Y9FNk/mysql.socket", "--pid-file=/tmp/akonadi-bkessels.4Y9FNk/mysql.pid")
+stdout: ""
+stderr: "180430 23:34:34 [Note] /usr/sbin/mysqld (mysqld 10.0.34-MariaDB-0ubuntu0.16.04.1) starting as process 1627 ...\n180430 23:34:34 [Warning] Can't create test file /home/bkessels/.local/share/akonadi/db_data/BKcomputer.lower-test\n\x07/usr/sbin/mysqld: Can't change dir to '/home/bkessels/.local/share/akonadi/db_data/' (Errcode: 2 \"No such file or directory\")\n180430 23:34:34 [ERROR] Aborting\n\n180430 23:34:34 [Note] /usr/sbin/mysqld: Shutdown complete\n\n"
+exit code: 1
+process error: "Unknown error"
+Failed to remove runtime connection config file

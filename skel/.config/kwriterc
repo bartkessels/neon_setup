@@ -1,0 +1,26 @@
+[General Options]
+ShowMenuBar=true
+ShowPath=false
+ShowStatusBar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/packages.txt,file:$HOME/packages.txt
+
+[KTextEditor::Search]
+Search History=$user_name,$home
+
+[MainWindow]
+Height 1080=1013
+State=AAAA/wAAAAD9AAAAAAAAA7wAAAOxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=956
+
+[Recent Files]
+File1[$e]=$HOME/git_projects/getit/DOCS/diagrams/Use Case Diagram.svg
+File2[$e]=$HOME/neon_setup/packages.sh
+File3[$e]=$HOME/neon_setup/set-configs.sh
+File4[$e]=$HOME/neon_setup/skel/.offlineimaprc
+Name1[$e]=Use Case Diagram.svg
+Name2[$e]=packages.sh
+Name3[$e]=set-configs.sh
+Name4[$e]=.offlineimaprc

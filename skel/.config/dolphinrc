@@ -1,0 +1,40 @@
+Height 1080=744
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACwvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACwgAAAFoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAEBwAAAsIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1920=1216
+
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=22
+
+[General]
+EditableUrl=true
+GlobalViewProps=true
+ShowSelectionToggle=false
+ShowZoomSlider=false
+Version=200
+ViewPropsTimestamp=2018,4,26,22,0,21
+
+[IconsMode]
+FontWeight=50
+
+[MainWindow]
+Height 1080=513
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAB2/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAAB2wAAAFoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAADAwAAAdsAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=956
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=stage_key_thumbnail,audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,htmlthumbnail,imagethumbnail,jpegthumbnail,stage_kpr_thumbnail,karbon_karbon1x_thumbnail,kraorathumbnail,sheets_xlsx_thumbnail,sheets_excel_thumbnail,stage_pptx_thumbnail,stage_powerpoint_thumbnail,windowsexethumbnail,windowsimagethumbnail,words_docx_thumbnail,words_msword_thumbnail,words_wps_thumbnail,calligra_odg_thumbnail,stage_odp_thumbnail,sheets_ods_thumbnail,words_odt_thumbnail,words_rtf_thumbnail,svgthumbnail,karbon_wmf_thumbnail,words_wpd_thumbnail,karbon_wpg_thumbnail,karbon_xfig_thumbnail
+
+[SettingsDialog]
+Height 1080=492
+Width 1920=520

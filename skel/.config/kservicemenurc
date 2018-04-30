@@ -1,0 +1,11 @@
+[Show]
+Print=true
+bluedevilfileitemaction=true
+compressfileitemaction=true
+extractfileitemaction=true
+installFont=true
+kactivitymanagerd_fileitem_linking_plugin=true
+kdeconnectsendfile=true
+openTerminalHere=true
+runInKonsole=true
+slideshow=true

@@ -1,0 +1,150 @@
+[Desktop Entry]
+DefaultProfile=Profile 3.profile
+
+[DownloadDialog Settings]
+Height 1080=522
+Width 1920=700
+
+[External Scripts]
+firstUse=false
+
+[External Scripts][script 0]
+command=g++ -o %b %f && ./%b
+errorMode=0
+filterMode=0
+inputMode=0
+name=Quick Compile
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=true
+
+[External Scripts][script 1]
+command=xdg-open "https://www.google.com/search?q=%s"
+errorMode=0
+filterMode=0
+inputMode=0
+name=Google Selection
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=false
+
+[External Scripts][script 2]
+command=sort
+errorMode=0
+filterMode=0
+inputMode=2
+name=Sort Selection
+outputMode=3
+saveMode=0
+shortcuts=
+showOutput=false
+
+[Favorite Profiles]
+Favorites=
+
+[KatePart Settings]
+documents=/home/bkessels/projects/myCustomQtQuickApp/src/qml/main.qml,/home/bkessels/projects/myCustomQtQuickApp/src/main.cpp,/home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro
+
+[KatePart Settings][/home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=QMake
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=QMake
+Mode Set By User=false
+URL=file:///home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro
+
+[KatePart Settings][/home/bkessels/projects/myCustomQtQuickApp/src/main.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+URL=file:///home/bkessels/projects/myCustomQtQuickApp/src/main.cpp
+
+[KatePart Settings][/home/bkessels/projects/myCustomQtQuickApp/src/qml/main.qml]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=QML
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=QML
+Mode Set By User=false
+URL=file:///home/bkessels/projects/myCustomQtQuickApp/src/qml/main.qml
+
+[Main Window]
+Desktop 1920 1080=0,27,1920,1017
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAgAAAAAAAAEgAAADkvwCAAAABPsAAAAYAEMAbABhAHMAcwBlAHMAXwBjAG8AZABlAAAAAEQAAAOQAAAAnAEAAAP7AAAAHgBGAGkAbABlAHMAeQBzAHQAZQBtAF8AYwBvAGQAZQAAAABEAAADkAAAAGQBAAAD+wAAABwARABvAGMAdQBtAGUAbgB0AHMAXwBjAG8AZABlAAAAAEQAAAOQAAAAdgEAAAP7AAAAGgBQAHIAbwBqAGUAYwB0AHMAXwBjAG8AZABlAQAAAEQAAAOSAAABMwEAAAMAAAADAAAGIwAAAR38AQAAAAH7AAAAFABCAHUAaQBsAGQAXwBjAG8AZABlAQAAAT8AAAYjAAAAdgEAAAMAAAYjAAACdAAAAAQAAAAEAAAAAQAAAAL8AAAABAAAAAAAAAABAAAAHgBMAGUAZgB0ACAAQgB1AHQAdABvAG4AIABCAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAQAAAAEAAAAgAFIAaQBnAGgAdAAgAEIAdQB0AHQAbwBuACAAQgBhAHIDAAAAAP////8AAAAAAAAAAAAAAAIAAAAEAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAACAAcQB1AGkAYwBrAE8AcABlAG4AVABvAG8AbABCAGEAcgEAAAR1/////wAAAAAAAAAAAAAALABLAEQAZQB2AEMAbwBkAGUAYgByAG8AdwBzAGUAcgBUAG8AbwBsAEIAYQByAQAABV3/////AAAAAAAAAAAAAAAYAGQAZQBiAHUAZwBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAADAAAAAQAAACIAQgBvAHQAdABvAG0AIABCAHUAdAB0AG8AbgAgAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Window-Maximized 1080x1920=true
+
+[MainWindow_code]
+(1) Tool Views Order=org.kdevelop.ProjectsView,org.kdevelop.ClassBrowserView,org.kdevelop.FileManagerView,org.kdevelop.DocumentsView
+(2) Tool Views Order=org.kdevelop.ExternalScriptView
+(8) Tool Views Order=org.kdevelop.OutputView.0,org.kdevelop.KonsoleView,org.kdevelop.ContextBrowser,org.kdevelop.ProblemReporterView
+State=AAAA/wAAAAD9AAAAAgAAAAAAAAEgAAADkvwCAAAABPsAAAAYAEMAbABhAHMAcwBlAHMAXwBjAG8AZABlAAAAAEQAAAOQAAAAnAEAAAP7AAAAHgBGAGkAbABlAHMAeQBzAHQAZQBtAF8AYwBvAGQAZQAAAABEAAADkAAAAGQBAAAD+wAAABwARABvAGMAdQBtAGUAbgB0AHMAXwBjAG8AZABlAAAAAEQAAAOQAAAAdgEAAAP7AAAAGgBQAHIAbwBqAGUAYwB0AHMAXwBjAG8AZABlAQAAAEQAAAOSAAABMwEAAAMAAAADAAAGIwAAAR38AQAAAAH7AAAAFABCAHUAaQBsAGQAXwBjAG8AZABlAQAAAT8AAAYjAAAAdgEAAAMAAAYjAAACdAAAAAQAAAAEAAAAAQAAAAL8AAAABAAAAAAAAAABAAAAHgBMAGUAZgB0ACAAQgB1AHQAdABvAG4AIABCAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAQAAAAEAAAAgAFIAaQBnAGgAdAAgAEIAdQB0AHQAbwBuACAAQgBhAHIDAAAAAP////8AAAAAAAAAAAAAAAIAAAAEAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAACAAcQB1AGkAYwBrAE8AcABlAG4AVABvAG8AbABCAGEAcgEAAAR1/////wAAAAAAAAAAAAAALABLAEQAZQB2AEMAbwBkAGUAYgByAG8AdwBzAGUAcgBUAG8AbwBsAEIAYQByAQAABV3/////AAAAAAAAAAAAAAAYAGQAZQBiAHUAZwBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAADAAAAAQAAACIAQgBvAHQAdABvAG0AIABCAHUAdAB0AG8AbgAgAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Window-Maximized 1080x1920=true
+debugToolBarVisibility=false
+
+[Open File]
+Last Open File Directory=file:///home/bkessels/projects/myCustomQtQuickApp/
+
+[Recent Files]
+File1[$e]=$HOME/projects/myCustomQtQuickApp/src/main.cpp
+File2[$e]=$HOME/projects/myCustomQtQuickApp/src/qml/main.qml
+File3[$e]=$HOME/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro
+Name1[$e]=main.cpp
+Name2[$e]=main.qml
+Name3[$e]=myCustomQtQuickApp.pro
+
+[RecentProjects]
+File1[$e]=$HOME/projects/myCustomQtQuickApp/myCustomQtQuickApp.kdev4
+Name1[$e]=myCustomQtQuickApp.kdev4
+
+[Sessions]
+Active Session ID={c105fe3e-7e3b-42b3-bd67-0b46b28fb960}
+
+[UiSettings]
+ShowTextEditorStatusBar=false
+
+[UiSettings/Docks/ToolbarEnabled]
+Build_code=true
+Filesystem_code=true
+Projects_code=true
+
+[User Interface]
+Main Windows Count=1
+
+[User Interface][Main Window 0][Area code]
+desired views=org.kdevelop.ClassBrowserView:1,org.kdevelop.ContextBrowser:8,org.kdevelop.DocumentsView:1,org.kdevelop.ExternalScriptView:2,org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.OutputView:8,org.kdevelop.OutputView.0:8,org.kdevelop.ProblemReporterView:8,org.kdevelop.ProjectsView:1,org.kdevelop.SnippetView:2
+id=code
+view on bottom=org.kdevelop.OutputView.0
+view on left=org.kdevelop.ProjectsView
+view on right=
+view on top=
+working set=code_8753784
+
+[User Interface][Main Window 0][Area debug]
+desired views=org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.OutputView.0:8,org.kdevelop.debugger.BreakpointsView:8,org.kdevelop.debugger.ConsoleView:8,org.kdevelop.debugger.StackView:8,org.kdevelop.debugger.VariablesView:1
+id=debug
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[User Interface][Main Window 0][Area review]
+desired views=org.kdevelop.FileManagerView:1,org.kdevelop.OutputView.0:8,org.kdevelop.PatchReview:8,org.kdevelop.ProjectsView:1
+id=review
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=

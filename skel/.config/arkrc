@@ -1,0 +1,14 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:///tmp/mozilla_bkessels0/
+
+[MainWindow]
+Height 1080=562
+State=AAAA/wAAAAD9AAAAAAAABGsAAAHuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1920=1131
+splitterSizes=753,377

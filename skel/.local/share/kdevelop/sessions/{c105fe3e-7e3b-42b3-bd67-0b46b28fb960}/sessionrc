@@ -1,0 +1,98 @@
+SessionName=default
+SessionPrettyContents=default:  myCustomQtQuickApp
+
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00$\x00m\x00y\x00C\x00u\x00s\x00t\x00o\x00m\x00Q\x00t\x00Q\x00u\x00i\x00c\x00k\x00A\x00p\x00p)
+
+[Filesystem]
+LastLocation=file:///home/bkessels
+
+[General Options]
+Open Projects=file:///home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.kdev4
+
+[Plugins]
+KDevCMakeBuilderEnabled=true
+KDevCMakeDocumentationEnabled=false
+KDevCMakeManagerEnabled=true
+KDevCustomBuildSystemEnabled=true
+KDevCustomMakeManagerEnabled=true
+KDevDefinesAndIncludesManagerEnabled=true
+KDevGenericManagerEnabled=true
+KDevMakeBuilderEnabled=true
+KDevNinjaBuilderEnabled=false
+KDevOutlineViewEnabled=true
+KDevProjectFilterEnabled=true
+KDevProjectManagerViewEnabled=true
+KDevQMakeBuilderEnabled=true
+KDevQMakeManagerEnabled=true
+KDevStandardOutputViewEnabled=true
+KDevWelcomePageEnabled=true
+kdevandroidEnabled=true
+kdevappwizardEnabled=true
+kdevastyleEnabled=true
+kdevbazaarEnabled=false
+kdevclangsupportEnabled=true
+kdevclassbrowserEnabled=true
+kdevcodeutilsEnabled=true
+kdevcontextbrowserEnabled=true
+kdevcppcheckEnabled=true
+kdevcustomscriptEnabled=true
+kdevcvsEnabled=true
+kdevdockerEnabled=true
+kdevdocumentswitcherEnabled=true
+kdevdocumentviewEnabled=true
+kdevexecuteEnabled=true
+kdevexecuteplasmoidEnabled=true
+kdevexecutescriptEnabled=true
+kdevexternalscriptEnabled=true
+kdevfilemanagerEnabled=true
+kdevfiletemplatesEnabled=true
+kdevflatpakEnabled=true
+kdevgdbEnabled=true
+kdevghproviderEnabled=true
+kdevgitEnabled=false
+kdevgrepviewEnabled=true
+kdevheaptrackEnabled=true
+kdevkdeproviderEnabled=true
+kdevkonsoleviewEnabled=true
+kdevlldbEnabled=true
+kdevoktetaEnabled=true
+kdevopenwithEnabled=true
+kdevpatchreviewEnabled=true
+kdevperforceEnabled=false
+kdevproblemreporterEnabled=true
+kdevqmljsEnabled=true
+kdevqthelpEnabled=true
+kdevquickopenEnabled=true
+kdevsourceformatterEnabled=true
+kdevsubversionEnabled=true
+kdevswitchtobuddyEnabled=true
+kdevtestviewEnabled=true
+kdevvcschangesviewpluginEnabled=true
+
+[ProjectManagerView]
+splitterState=\x00\x00\x00ÿ\x00\x00\x00\x01\x00\x00\x00\x02\x00\x008@\x00\x00\x17\x0c\x01ÿÿÿÿ\x01\x00\x00\x00\x02\x00
+
+[ProjectTreeViewmyCustomQtQuickApp]
+Current=myCustomQtQuickApp/myCustomQtQuickApp.pro
+Expansion=myCustomQtQuickApp,myCustomQtQuickApp/src,myCustomQtQuickApp/src/qml
+HorizontalScroll=0
+Selection=myCustomQtQuickApp/myCustomQtQuickApp.pro
+VerticalScroll=0
+
+[Working File Sets][code_8753784]
+View 0=file:///home/bkessels/projects/myCustomQtQuickApp/src/main.cpp
+View 1=file:///home/bkessels/projects/myCustomQtQuickApp/src/qml/main.qml
+View 2=file:///home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro
+View Count=3
+persistent=false
+
+[Working File Sets][code_8753784|Code]
+Active View=file:///home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro
+View 0=file:///home/bkessels/projects/myCustomQtQuickApp/src/main.cpp
+View 0 State=Cursor=2,0
+View 1=file:///home/bkessels/projects/myCustomQtQuickApp/src/qml/main.qml
+View 1 State=Cursor=14,0
+View 2=file:///home/bkessels/projects/myCustomQtQuickApp/myCustomQtQuickApp.pro
+View 2 State=Cursor=4,0
+View Count=3

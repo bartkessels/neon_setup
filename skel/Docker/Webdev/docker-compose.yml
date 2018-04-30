@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+	database:
+        image: microsoft/mssql-server-linux:latest
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_PID=Developer
+            - SA_PASSWORD=Str0ngPass
+        ports:
+            - "1433:1433"
+
+    web:
+        image: lbosqmsft/mssql-php-msphpsql
+        environment:
+            - DB_HOST=localhost
+            - DB_USERNAME=sa
+            - DB_PASSWORD=Str0ngPass
+        ports:
+            - "80:80"
+        volumes:
+            - /var/www/html:.

@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "d7937d48a19abb25bf283b598fe2db36",
+        "metadata": {
+            "fullname": "xrandr-ASUS VS228-D9LMTF298048",
+            "name": "DVI-I-1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 1920,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "26121d1cab68d979d2d2e3110059acf7",
+        "metadata": {
+            "fullname": "xrandr-ASUS VS228-D9LMTF260954",
+            "name": "HDMI-1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

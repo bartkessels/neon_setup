@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=user-home
+Name=bkessels
+Type=Link
+URL[$e]=file:$HOME
+X-KDE-LastOpenedWith=org.kde.dolphin

@@ -1,0 +1,19 @@
+[general]
+accounts=bk-mail
+
+[Account bk-mail]
+localrepository=local-bk-mail
+remoterepository=remote-bk-mail
+
+[Repository local-bk-mail]
+type=Maildir
+localfolders=~/Backups/Mail/bk-mail
+
+[Repository remote-bk-mail]
+type=IMAP
+remotehost=<HOST>
+remoteuser=<USER_NAME>
+remotepass=<PASSWORD>
+ssl=yes
+cert_fingerprint=<CAN BE FOUND BY RUNNING offlineimap WITH WRONG CERT_FINGERPRINT>
+maxconnections=4

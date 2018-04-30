@@ -1,0 +1,29 @@
+[Containments][20][General]
+AppletOrder=22;21
+
+[Containments][22][General]
+AppletOrder=23
+
+[DownloadDialog Settings]
+Height 1080=522
+Width 1920=700
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.ksysguard.desktop,1 services_org.kde.konsole.desktop
+pluginWhiteList=services,shell,bookmarks,baloosearch,locations
+
+[PlasmaViews][Panel 20][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 22][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=36
+
+[ScreenConnectors]
+0=HDMI-1
+1=DVI-I-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

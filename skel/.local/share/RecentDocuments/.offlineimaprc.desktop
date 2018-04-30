@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=.offlineimaprc
+Type=Link
+URL[$e]=file:$HOME/neon_setup/skel/.offlineimaprc
+X-KDE-LastOpenedWith=org.kde.kwrite

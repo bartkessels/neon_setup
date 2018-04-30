@@ -1,0 +1,31 @@
+{
+    "workbench.activityBar.visible": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.showUpdateMessage": false,
+    "emmet.triggerExpansionOnTab": false,
+    "csharp.fallbackDebuggerLinuxRuntimeId": "ubuntu.16.10-x64",
+    "extensions.autoUpdate": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.sideBar.location": "left",
+    "workbench.welcome.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "files.associations": {
+        "*.h": "c",
+        "*.ui": "xml",
+        "Makefile.am": "makefile"
+    },
+    "editor.tabCompletion": true,
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: WebKit, IndentWidth: 4 }",
+    "C_Cpp.clang_format_sortIncludes": true,
+    "C_Cpp.clang_format_formatOnSave": true,
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+    }
+}

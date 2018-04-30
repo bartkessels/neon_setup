@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tags>
+<tags>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/vegetal.gbr" md5="A7LcCKcVY0sjFsU+taBVXA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/paint_splats.gih" md5="KHihuXapPqOfuBod6Rn5qw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rock.png" md5="Srwspc9LgrOeiV+UJCw3Tg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rake_sparse.png" md5="FdNM1D9m6ZDRV227yqsJJQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/grass_patch.gih" md5="aMYZfCQ3eRuXp9KVAnmckQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/floor.gih" md5="fAmXA+KTsJbsxqPn0/Enqg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rock_scraped.gih" md5="YfmbY0URoMZeg30OSasjww==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/scales.png" md5="XHKd0lED6jtyeUkUbP5fRQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_variable.svg" md5="JxUhyZ/oMmj68gl+mLO3rw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_chisel_dense.png" md5="ICko241vFuHcrghtGWZAlA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/hair.png" md5="DhBirZeQHL8/8hJ8e7zO1w==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_eroded.png" md5="Gf/kqIsudNWaiTsQFnkqbg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_grouped.gbr" md5="QJciyIiaQb7C41jM4x4sow==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/vegetal_stylised.gih" md5="UhAm7KMt9GLGdtPFi99Mpg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/square_rough_lightgrey.png" md5="kfZlbPGPhvpAmn2Y9hdrDg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/water_still.gih" md5="fvhOJb76IcBjYQ40VNofrQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/spines.png" md5="OvCrWhG3BOViwEYSOJ+eyQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chalk.png" md5="vMoR62C2UPJcKoE7rmSuZw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/crackles.gbr" md5="0cNGBR4ihDtweHguxsPDSA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_knife.gbr" md5="35dtTQK44gda3rXpkGg9Lw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/impressionism_brush.gih" md5="1jQOMiogMJwx8CiY3BdAvA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_random.gih" md5="CXG2TWBy6Dbgbv3BuXZB8w==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rake_flat.png" md5="tdo11KKMNZKzsyuhIhUqvQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/snow.gih" md5="37Tx91adozvP5PV2+w2BBQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/circle_hard_eroded.gih" md5="7mM5uM1uPs+f7JhbTF/Kdw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/noise.gih" md5="5cQHKl9c2Q4FlRXWBq7LCw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/splats_large.gih" md5="7mXdmRDcR0+Fu1ziY1P0DA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_dense_smear.png" md5="zDgbjZyoOHD63++1mqx/Tg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/grass.gih" md5="wtjRA89PvG2P6aIQ4jGXwA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bamboo_leaves_random.gih" md5="zRhmQiMvqZqlvT58R/dttA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/sparkle.png" md5="0dtAtCdDeHCuXKQ2wEzmyQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/square_eroded.png" md5="0MYffbNGuEjEaFMQ5jQsdA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rock_light.gih" md5="wcEQP/AcSk2BhoJy1dXDdg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_dense.png" md5="IHfGFn0ISgV6i0hjF/rucA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/gradient.png" md5="a/kUzsfGA6gF3Uo2MtM3dw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/leaves-scattered.svg" md5="OWXYk2XwiIgIqO3uMqtOkQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/leaves.png" md5="SVqXo473F0quD6fXuNBsQA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/mountains_distant.gih" md5="XWWmXJ+35amoQ56kg6vfAA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristle.png" md5="dXsPWtgnhW5RnlqJ+0xW6w==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/smear_paint.png" md5="U8mfuvd5YpN7tkMHqfVPVQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/plain_rake.png" md5="ip7h89OjJgTglW+W0ksVaA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/random-debris.gbr" md5="JVtTzd/wO//T5rmYJYsxpg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel_random_small.gih" md5="qXcT+Y70YQWW+kZuoa1U6g==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/fairy-dust.gih" md5="dIfcKYW3IGyDMj1dEvnlig==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_sparse.png" md5="ATCYOu4ql4oXhA0scPa+0w==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/brick.gih" md5="dJjI82ESDYobl/SRxM1drQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/watercolor.gih" md5="qw8lM/cPdjFHEYmb7Gs0yw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_round_random.gih" md5="pBCwsLS+zJzV0OqmfOTNaA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/scribbles.png" md5="v8nvkFoDP6ZTx9sXs4o0hw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/random_particles.png" md5="OUHJn8KdZcbjqHl3otwXcw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/random-vegetal.gih" md5="dWtDmvIltYghQ3TbPwVQww==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/freckles.png" md5="b1nfMPD9jT81haWIFJ42sA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/spike_eroded.png" md5="QcJ21pzYl5aMTO4nO0m8IQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/splat_dots.png" md5="AAnU9x8Hw0X7Ds1SvdysLA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/square_rough.png" md5="zxvHQVrzEDr82C9Youb+GA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_medium.png" md5="HA8onnZqngQIo9ha0uptcQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_spiked_random.gih" md5="lQLlxPrVsLci3kGVSy2QYQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_sparse.png" md5="kEjrxNixJzMUjq8HCBii+A==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel.gih" md5="fzhjv9PKs/dSsUzB3pQxrg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rock_pitted.gih" md5="5nO4RRCrUPAK7VyIRyx0iA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_streaks.png" md5="b8gjUEw42Q5kmQ6X2wjVAA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_bent_rough.gih" md5="V3rd9Dm9/8fINul99vqDPQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rake_dotted.png" md5="Rv/3t1whpyuUA8uuSc4lSg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/smoke.png" md5="IgAMXYs5YNeC/43owhIljQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/abominable_snowman.png" md5="xgX7GXRJeil076QjUqiKvg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/hearts.gih" md5="oss9xC4xOMAVTKIFmF+2LA==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_mech_random.gih" md5="38CtX2Xt7beb2WG9HqJfag==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/bokey_circle.gbr" md5="REELpkaNH3Yy87x7/eNlsQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/rake_dense.png" md5="uZf3u58FtlLAnGbz7mmAVQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/oil_bristle.png" md5="78EWTfSPudkQmQniY2Id3g==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/oil_knife.png" md5="1GkOyuN9pd+P23qJ3vL0uw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/starfield.png" md5="j5eg+BFEV2cNhx2cV8z2Bw==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/graphite_grain.gih" md5="Xd0SLgqcCdxu/DaGwrkL+w==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/scratches_rough.gih" md5="dAXmMTJocO+v8MTpPdukhQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_round_hard.png" md5="yvrFs8I/Cy4i0DL5IdI6eQ==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel_random.gih" md5="CXPxG6DomnXWG8Eu2hA00Q==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+ <resource identifier="bundle:///usr/share/krita/bundles/Krita_4_Default_Resources.bundle:brushes/spike_blob.png" md5="kFTHm1xy8bgWf4EVZcwjpg==">
+  <tag blacklisted="false">Krita_4_Default_Resources</tag>
+ </resource>
+</tags>

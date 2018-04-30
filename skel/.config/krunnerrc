@@ -1,0 +1,5 @@
+[General]
+history=writer,blender,system settings,ghost,qt,blend,ardour,disc,ksys,falkon,sys,setti,,sy,konso,kdeve,keepas,kwallet,umb,dolph,word,ks,kwrite,settings,konsole,firef,q,term
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.kwrite.desktop,1 services_org.kde.umbrello.desktop,1 services_org.kde.ksysguard.desktop,1 services_org.kde.discover.desktop,1 services_org.kde.kwalletmanager5.desktop,1 services_libreoffice-writer.desktop,2 services_org.kde.kdevelop.desktop,1 services_org.kde.falkon.desktop,3 services_org.kde.konsole.desktop,1 services_org.kde.calligrawords.desktop,2 services_systemsettings.desktop,1 services_firefox.desktop,1 windows_0_81788933,1 services_org.kde.dolphin.desktop,1 appstreamrunner_artha.desktop,1 services_keepassx.desktop,2 services_org.qt-project.qtcreator.desktop

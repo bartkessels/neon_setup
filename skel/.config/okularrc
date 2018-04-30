@@ -1,0 +1,15 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAO1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/git_projects/getit/DOCS/SRS.md
+File2[$e]=$HOME/kube-0.3.1/README.md
+File3[$e]=$HOME/test.pdf
+Name1[$e]=SRS.md
+Name2[$e]=README.md
+Name3[$e]=test.pdf

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Breezemite</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>andreyorst</author>
+  <homepage>https://store.kde.org/p/1169286</homepage>
+  <licence></licence>
+  <version>0.3.0</version>
+  <rating>78</rating>
+  <downloads>57141</downloads>
+  <installedfile>/home/bkessels/.local/share/aurorae/themes//Breezemite/*</installedfile>
+  <installedfile>/home/bkessels/.local/share/aurorae/themes//Breezemite_dark/*</installedfile>
+  <installedfile>/home/bkessels/.local/share/aurorae/themes//</installedfile>
+  <id>1169286</id>
+  <releasedate>2017-09-03</releasedate>
+  <summary>Aurorae theme for KDE 5.8 and higer, that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme. Based on Yosemite v0.1&lt;br />
+&lt;br />
+omg, thanks for 10k downloads everyone</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img/7/1/2/1/ad64b5117178c30b56db09ab3ae9ea3905ee.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img/7/1/2/1/ad64b5117178c30b56db09ab3ae9ea3905ee.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1489696233/s/64d7876e4a14f19958d55403753f5423/t/1524862112/o/1/Breezemite-aurorae.tar.xz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

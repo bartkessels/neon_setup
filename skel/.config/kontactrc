@@ -1,0 +1,29 @@
+[MainWindow]
+Height 1080=532
+State=AAAA/wAAAAD9AAAAAAAAA3UAAAG5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABuAGEAdgBpAGcAYQB0AG8AcgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=885
+
+[MainWindowkontact_kmailplugin]
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABuAGEAdgBpAGcAYQB0AG8AcgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[MainWindowkontact_summaryplugin]
+Height 1080=532
+State=AAAA/wAAAAD9AAAAAAAAA3UAAAG5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABuAGEAdgBpAGcAYQB0AG8AcgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+Width 1920=885
+
+[Plugins]
+kontact_akregatorpluginEnabled=false
+kontact_journalpluginEnabled=true
+kontact_kaddressbookpluginEnabled=true
+kontact_kmailpluginEnabled=true
+kontact_knotespluginEnabled=true
+kontact_korganizerpluginEnabled=true
+kontact_specialdatespluginEnabled=true
+kontact_summarypluginEnabled=true
+kontact_todopluginEnabled=true
+
+[View]
+LastVersionSeen=5.8.0
+SidePaneSplitter=116,768

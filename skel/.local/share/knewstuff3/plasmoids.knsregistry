@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Active Window Control</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>clearmartin</author>
+  <homepage>https://store.kde.org/p/998910</homepage>
+  <licence></licence>
+  <version>1.7.3</version>
+  <rating>82</rating>
+  <downloads>15041</downloads>
+  <installedfile>/tmp/plasma-applet-active-window-control.plasmoid</installedfile>
+  <id>998910</id>
+  <releasedate>2017-06-08</releasedate>
+  <summary>Plasmoid which just show active window title and icon. Also allows to close active window with cross icon (its location can be configured) and some other actions (like present-windows effect etc).&lt;br />
+&lt;br />
+This plasmoid is particularly useful when using BorderlessMaximizedWindows=true...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img//hive/content-pre1/169378-1.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img//hive/content-pre1/169378-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1496935595/s/88989e1b1d94f6ef16799084b79a93e7/t/1524816822/o/1/plasma-applet-active-window-control.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

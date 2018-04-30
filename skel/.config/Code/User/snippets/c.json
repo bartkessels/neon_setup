@@ -1,0 +1,104 @@
+{
+	"Add GPL": {
+		"prefix": "gpl",
+		"body": [
+			"/*",
+			" * $TM_FILENAME",
+			" *",
+			" * Copyright (C) ${1:Current year} ${2:Author Name} <${3:E-mail address}>",
+			" *",
+			" * This program is free software: you can redistribute it and/or modify",
+			" * it under the terms of the GNU General Public License as published by",
+			" * the Free Software Foundation, either version 3 of the License, or",
+			" * (at your option) any later version.",
+			" *",
+			" * This program is distributed in the hope that it will be useful,",
+			" * but WITHOUT ANY WARRANTY; without even the implied warranty of",
+			" * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the",
+			" * GNU General Public License for more details.",
+			" *",
+			" * You should have received a copy of the GNU General Public License",
+			" * along with this program.  If not, see <http://www.gnu.org/licenses/>.",
+			" *",
+			" */",
+			""
+		],
+		"description": "Add the GPLv3 license on the current position"
+	},
+	"Add Header Guards": {
+		"prefix": "guard",
+		"body": [
+			"#ifndef ${1:FILENAME (all caps)}_H",
+			"#define $1_H",
+			"",
+			"#endif /* $1_H */"
+		],
+		"description": "Add guards to the file"
+	},
+	"Headerfile GObject": {
+        "prefix": "gobj_header",
+        "body": [
+			"#include <glib-object.h>",
+			"",
+			"G_BEGIN_DECLS",
+			"",
+            "typedef struct _${1:[PrefixName (PascalCase)]}${2:[ObjectName (PascalCase)]} $1$2;",
+            "",
+            "#define ${3:[PREFIXNAME (UPPERCASE)]}_TYPE_${4:[OBJECTNAME (UPPERCASE)]} ${5:[prefixname (lowercase)]}_${6:[objectname (lowercase)]}_get_type()",
+            "G_DECLARE_FINAL_TYPE($1$2, $5_$6, $3, $4, ${7:GObject})",
+            "",
+            "struct _$1$2",
+            "{",
+            "\t$7 parent;",
+            "",
+            "\t/*",
+            "\t\tMember Variables",
+            "\t*/",
+            "};",
+            "",
+            "/*",
+            "\tMethods",
+            "*/",
+            "$1$2 *$5_$6_new();",
+			"",
+			"G_END_DECLS"
+        ],
+        "description": "Boiler plate for GObject headerfile"
+    },
+	"C-file GObject": {
+		"prefix": "gobj_C",
+		"body": [
+			"#include <glib-object.h>",
+			"",
+			"G_DEFINE_TYPE(${1:[PrefixName (PascalCase)]}${2:[ObjectName (PascalCase)]}, ${3:[prefixname (lowercase)]}_${4:[objectname (lowercase)]}, ${7:G_TYPE_OBJECT})",
+			"",
+			"static void $3_$4_init($1$2 *self) {}",
+			"",
+			"static void $3_$4_class_init($1$2Class *class)",
+			"{",
+			"\tGObjectClass *parent_class = G_OBJECT_CLASS(class);",
+			"}",
+			"",
+			"$1$2 *$3_$4_new()",
+			"{",
+			"\treturn g_object_new(${5:[PREFIXNAME (UPPERCASE)]}_TYPE_${6:[OBJECTNAME (UPPERCASE)]}, NULL);",
+			"}"
+		],
+		"description": "Methods needed by GObject"
+	},
+	"Docblock": {
+		"prefix": "doc",
+		"body":[
+			"/**",
+			" * ${1:Function name}",
+			" *",
+			" * @[param_name]: [Param description]",
+			" *",
+			" * [Description of function]",
+			" *",
+			" * Return value: [Return data type]",
+			" */"
+		],
+		"description": "Create a docblock for your C-function"
+	}
+}

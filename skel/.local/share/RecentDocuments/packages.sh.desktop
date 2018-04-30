@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=packages.sh
+Type=Link
+URL[$e]=file:$HOME/neon_setup/packages.sh
+X-KDE-LastOpenedWith=org.kde.kwrite

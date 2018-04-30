@@ -1,0 +1,17 @@
+[ConfigDialog]
+Height 1080=282
+Width 1920=382
+
+[DownloadDialog Settings]
+Height 1080=522
+Width 1920=700
+
+[Main]
+ShowToolTips=false
+
+[MainWindow]
+Height 1080=743
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABNcAAALnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1239
