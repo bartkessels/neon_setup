@@ -45,6 +45,7 @@ rmdir $HOME/Pictures
 rmdir $HOME/Videos
 
 # Create extra dirs
+mkdir $HOME/Desktop
 mkdir $HOME/Git-projects
 mkdir $sync_folder
 

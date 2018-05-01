@@ -1,6 +1,6 @@
 #!/bin/bash
 
-printf 'XDG_DESKTOP_DIR="$HOME"\n
+printf 'XDG_DESKTOP_DIR="$HOME/Desktop"\n
 XDG_DOWNLOAD_DIR="$HOME/Downloads"\n
 XDG_TEMPLATES_DIR="$HOME/Templates"\n
 XDG_PUBLICSHARE_DIR="$HOME/Public"\n
