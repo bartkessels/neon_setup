@@ -130,7 +130,7 @@ apt install -y qttools5-dev
 apt install -y umbrello
 
 # Web
-apt install -y youtube-dl offlineimap
+apt install -y youtube-dl offlineimap chromium-browser
 
 # Language packs
 apt install -y aspell-nl
