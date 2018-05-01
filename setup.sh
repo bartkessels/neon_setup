@@ -140,7 +140,7 @@ apt install --install-suggests -y youtube-dl offlineimap
 apt install -y aspell-nl
 
 # Containers
-apt install --install-suggests -y docker
+apt install --install-suggests -y docker docker-compose
 
 # Other
 apt install --install-suggests -y tuxguitar
