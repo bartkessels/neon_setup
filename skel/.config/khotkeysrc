@@ -1047,7 +1047,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_7Actions0]
-CommandURL=keepassx ~/Documents/Wachtwoorden.kdbx
+CommandURL=flatpak run org.keepassxc.KeePassXC ~/Documents/Wachtwoorden.kdbx
 Type=COMMAND_URL
 
 [Data_7Conditions]
