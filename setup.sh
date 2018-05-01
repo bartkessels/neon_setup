@@ -118,27 +118,27 @@ hostnamectl set-hostname --static $computer_name
 apt install -y ghostwriter whois pandoc luckybackup ffmpeg redshift
 
 # Audio editors / Players
-apt install --install-suggests -y ardour
-apt install --install-suggests -y juk
+apt install -y ardour
+apt install -y juk
 
 # Development editors / Tools / Libraries / Documentation / Other
-apt install --install-suggests -y qtcreator kdevelop
-apt install --install-suggests -y build-essential git cmake clang
-apt install --install-suggests -y qtdeclarative5-dev
-apt install --install-suggests -y qttools5-dev
-apt install --install-suggests -y umbrello
+apt install -y qtcreator kdevelop
+apt install -y build-essential git cmake clang
+apt install -y qtdeclarative5-dev
+apt install -y qttools5-dev
+apt install -y umbrello
 
 # Web
-apt install --install-suggests -y youtube-dl offlineimap
+apt install -y youtube-dl offlineimap
 
 # Language packs
 apt install -y aspell-nl
 
 # Containers
-apt install --install-suggests -y docker docker-compose
+apt install -y docker docker-compose
 
 # Other
-apt install --install-suggests -y tuxguitar
+apt install -y tuxguitar
 
 #####################################################################################
 #####################################################################################
@@ -149,7 +149,7 @@ apt install --install-suggests -y tuxguitar
 #####################################################################################
 
 # Install flatpak
-apt install --install-suggests -y flatpak
+apt install -y flatpak
 
 # Add default flatpak remotes
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
