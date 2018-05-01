@@ -73,11 +73,6 @@ ln -sf $sync_folder/Werk $HOME/Work
 # Add PPA's
 add-apt-repository -y ppa:wereturtle/ppa
 
-# Visual Studio Code
-curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
-mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
-echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list
-
 # Refresh packages
 apt update
 
@@ -127,7 +122,7 @@ apt install --install-suggests -y ardour
 apt install --install-suggests -y juk
 
 # Development editors / Tools / Libraries / Documentation / Other
-apt install --install-suggests -y qtcreator kdevelop code
+apt install --install-suggests -y qtcreator kdevelop
 apt install --install-suggests -y build-essential git cmake clang
 apt install --install-suggests -y qtdeclarative5-dev
 apt install --install-suggests -y qttools5-dev
@@ -189,6 +184,7 @@ flatpak install -y flathub com.obsproject.Studio
 
 # Development editors
 flatpak install -y flathub com.google.AndroidStudio
+flatpak install -y flathub com.visualstudio.code
 
 # Password management
 flatpak install -y flathub org.keepassxc.KeePassXC
@@ -196,6 +192,7 @@ flatpak install -y flathub org.keepassxc.KeePassXC
 # Web
 flatpak install -y flathub org.filezillaproject.Filezilla
 flatpak install -y flathub org.qbittorrent.qBittorrent
+flatpak install -y flathub com.skype.Client
 flatpak install -y kdeapps org.kde.falkon
 
 #####################################################################################
