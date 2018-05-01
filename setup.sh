@@ -115,7 +115,7 @@ hostnamectl set-hostname --static $computer_name
 #####################################################################################
 
 # Utilities
-apt install --install-suggests -y ghostwriter whois pandoc luckybackup ffmpeg redshift
+apt install -y ghostwriter whois pandoc luckybackup ffmpeg redshift
 
 # Audio editors / Players
 apt install --install-suggests -y ardour
