@@ -169,15 +169,14 @@ flatpak install -y kdeapps org.kde.kontact
 
 # Video editors
 flatpak install -y flathub org.blender.Blender
-flatpak install -y flathub org.shotcut.Shotcut
-flatpak install -y kdeapps org.kde.kdenlive
+flatpak install -y flathub org.kde.kdenlive
 
 # Audio editors
 flatpak install -y flathub org.audacityteam.Audacity
 
 # Image editors
 flatpak install -y flathub org.gimp.GIMP
-flatpak install -y kdeapps org.kde.krita
+flatpak install -y flathub org.kde.krita
 
 # Screen recorders
 flatpak install -y flathub com.obsproject.Studio
