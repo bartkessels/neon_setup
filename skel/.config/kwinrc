@@ -11,17 +11,17 @@ BorderActivateCylinder=9
 BorderActivateSphere=9
 
 [Effect-DesktopGrid]
-BorderActivate=5
+BorderActivate=9
 
 [Effect-PresentWindows]
 BorderActivate=9
-BorderActivateAll=7
+BorderActivateAll=9
 BorderActivateClass=9
 
 [ElectricBorders]
 Bottom=None
 BottomLeft=None
-BottomRight=LockScreen
+BottomRight=None
 Left=None
 Right=None
 Top=None
