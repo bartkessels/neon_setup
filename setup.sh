@@ -93,7 +93,7 @@ apt update
 printf "[user]\nemail=$git_mail\nname=$full_name\n[diff]\ntool=meld\n[push]\ndefault=simple" > $HOME/.gitconfig
 
 # Shell / Plugins
-dnf install -y zsh
+apt install -y zsh
 usermod -s /bin/zsh $USER
 
 git clone https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh
@@ -107,7 +107,6 @@ printf '* hard rtprio 0\n* soft rtprio 0\n@realtime hard rtprio 20\n@realtime so
 
 # Create groups
 groupadd realtime
-groupadd docker
 
 # Hostname
 hostnamectl set-hostname --static $computer_name
@@ -121,20 +120,11 @@ hostnamectl set-hostname --static $computer_name
 #####################################################################################
 
 # Utilities
-apt install -y ghostwriter whois pandoc luckybackup ffmpeg
-
-# LaTeX editors
-apt install -y kile
+apt install --install-suggests -y ghostwriter whois pandoc luckybackup ffmpeg redshift
 
 # Audio editors / Players
-apt install -y audacity ardour
-apt install -y juk
-
-# Image editors
-apt install -y gimp krita
-
-# Video editors
-apt install -y --install-suggests kdenlive
+apt install --install-suggests -y ardour
+apt install --install-suggests -y juk
 
 # Development editors / Tools / Libraries / Documentation / Other
 apt install --install-suggests -y qtcreator kdevelop code
@@ -144,17 +134,13 @@ apt install --install-suggests -y qttools5-dev
 apt install --install-suggests -y umbrello
 
 # Web
-apt install --install-suggests -y falkon filezilla youtube-dl offlineimap qbittorrent
+apt install --install-suggests -y youtube-dl offlineimap
 
-# Office / Office language packs
-apt install -y kile kontact
+# Language packs
 apt install -y aspell-nl
 
 # Containers
-apt install --install-suggests -y docker docker-compose
-
-# Password management
-apt install --install-suggests -y keepassx
+apt install --install-suggests -y docker
 
 # Other
 apt install --install-suggests -y tuxguitar
@@ -183,16 +169,34 @@ apt install -y plasma-discover-flatpak-backend
 
 # Office
 flatpak install -y flathub org.libreoffice.LibreOffice
+flatpak install -y kdeapps org.kde.kube
+flatpak install -y kdeapps org.kde.kontact
 
 # Video editors
 flatpak install -y flathub org.blender.Blender
 flatpak install -y flathub org.shotcut.Shotcut
+flatpak install -y kdeapps org.kde.kdenlive
+
+# Audio editors
+flatpak install -y flathub org.audacityteam.Audacity
+
+# Image editors
+flatpak install -y flathub org.gimp.GIMP
+flatpak install -y kdeapps org.kde.krita
 
 # Screen recorders
 flatpak install -y flathub com.obsproject.Studio
 
 # Development editors
 flatpak install -y flathub com.google.AndroidStudio
+
+# Password management
+flatpak install -y flathub org.keepassxc.KeePassXC
+
+# Web
+flatpak install -y flathub org.filezillaproject.Filezilla
+flatpak install -y flathub org.qbittorrent.qBittorrent
+flatpak install -y kdeapps org.kde.falkon
 
 #####################################################################################
 #####################################################################################
